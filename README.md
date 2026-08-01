@@ -3,6 +3,11 @@
 A Machine Learning project that predicts **medical insurance charges** using patient demographic and lifestyle information. This project demonstrates the complete ML workflow including data preprocessing, visualization, feature engineering, model training, and performance evaluation using multiple regression algorithms.
 
 ---
+## 🚀 Live Demo
+
+Try the deployed Streamlit application:
+
+🔗 **Streamlit App:**  
 
 ## 📌 Project Overview
 
