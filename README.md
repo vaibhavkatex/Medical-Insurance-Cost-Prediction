@@ -7,7 +7,8 @@ A Machine Learning project that predicts **medical insurance charges** using pat
 
 Try the deployed Streamlit application:
 
-🔗 **Streamlit App:**  
+🔗 **Streamlit App:**
+https://medical-insurance-cost-predictionx.streamlit.app/
 
 ## 📌 Project Overview
 
